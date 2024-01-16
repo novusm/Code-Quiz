@@ -34,7 +34,6 @@ function showQuestion() {
   const choicesContainer = document.getElementById("choices");
   
   // Populate question and answer choices based on currentQuestionIndex
-  // Example code: 
   questionTitle.textContent = questions[currentQuestionIndex].question;
   choicesContainer.innerHTML = "";
 
@@ -54,9 +53,9 @@ function checkAnswer(event) {
   const correctAnswer = questions[currentQuestionIndex].correctAnswer;
 
   if (userChoice === correctAnswer) {
-    // Handle correct answer
+    
   } else {
-    // Handle incorrect answer (subtract time, show feedback, etc.)
+
   }
 
   // Move to the next question
@@ -65,11 +64,10 @@ function checkAnswer(event) {
   if (currentQuestionIndex < questions.length) {
     showQuestion();
   } else {
-    // End the quiz when all questions are answered
+
     endQuiz();
   }
 }
 
 function endQuiz() {
-  // Display the end-screen and allow the user to save initials and score
 }
