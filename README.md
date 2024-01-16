@@ -30,6 +30,8 @@ MIT LICENSE
 ## Links
 Git Hub containing project code URL: https://github.com/novusm/Code-Quiz/ Deployed project: https://novusm.github.io/Code-Quiz Git hub: https://github.com/novusm ReadMe: https://github.com/novusm/Code-Quz/blob/main/README.md
 
+![image](https://github.com/novusm/Code-Quiz/assets/126507510/9418537d-9b97-4d2f-bfb4-b218bd792851)
+
 
 
 
